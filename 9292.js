@@ -198,9 +198,6 @@ var _9292ov = function() {
 /**
  * Get new instance of _9292ov
  * 
- * Add as module:
- *
- * http://stackoverflow.com/questions/5625569/include-external-js-file-in-node-js-app
  * @type function
  */
 module.exports.get9292 = function() {

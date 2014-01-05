@@ -9,7 +9,6 @@
  * COMPLETION OR DEPLOYMENT. SEE OUR ARTICLE 5 OF OUR GENERAL  
  * TERMS AND CONDITIONS FOR MORE INFORMATION ON OUR WARRANTY. 
  */
-var consumerKey = 'YOUR_CONSUMER_KEY';
 var ov = require('../9292.js').get9292();
 
 ov.locations.query('enschede', function(result) {
