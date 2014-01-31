@@ -1,0 +1,26 @@
+{
+  "author": "Joris Blaak <joris.blaak@gmail.com>",
+  "name": "9292ov",
+  "description": "Library to communicate with 9292ov (9292ov.nl), allows you to get departures, locations and plan journeys.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JBlaak/NodeJS-9292"
+  },
+  "contributors": [
+    {
+      "name": "Bart Olsthoorn",
+      "email": "bartolsthoorn@gmail.com"
+    }
+  ],
+  "main": "./lib/9292",
+  "keywords": [
+    "9292",
+    "9292ov",
+    "transit"
+  ],
+  "dependencies" : {
+    "url": "*",
+    "http": "*"
+  }
+}
