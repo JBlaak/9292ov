@@ -9,7 +9,7 @@
  * COMPLETION OR DEPLOYMENT. SEE OUR ARTICLE 5 OF OUR GENERAL  
  * TERMS AND CONDITIONS FOR MORE INFORMATION ON OUR WARRANTY. 
  */
-var ov = require('../9292.js').get9292();
+var ov = require('../lib/9292.js').get9292();
 
 ov.locations.query('enschede', function(result) {
 	console.log(result);
