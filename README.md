@@ -1,6 +1,7 @@
 9292ov
 ====
 [![Build Status](https://travis-ci.org/JBlaak/NodeJS-9292.svg?branch=master)](https://travis-ci.org/JBlaak/NodeJS-9292)
+[![Dependency Status](https://david-dm.org/JBlaak/NodeJS-9292.svg)](https://david-dm.org/JBlaak/NodeJS-9292)
 
 Library to communicate with 9292ov (9292ov.nl) for NodeJS.
 
